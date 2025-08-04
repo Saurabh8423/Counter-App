@@ -1,14 +1,11 @@
+import React from 'react';
+import CounterApp from './components/CounterApp';
 
-
-import './App.css'
 
 function App() {
-  
-
   return (
-    <>
-    </>
+    <CounterApp />
   )
 }
 
-export default App
+export default App;
